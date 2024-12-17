@@ -14,14 +14,14 @@ b) No perfil creamos un novo repositorio
 c) Repositorio creado, aproveitando para crear o Readme.md de Paso
 ![novo repositorio](./images/RepoCreado.png)
 
-### 2) Clonamos o repositorio ao noso disco local, utilizando o GitBash
+#### 2) Clonamos o repositorio ao noso disco local, utilizando o GitBash
 Unha vez creada a carpeta que imos utilizar para albergar o proxecto, nos situamos nela con GitBash
 e executamos: 
-#### git init
-#### git clone https://github.com/JuanJoseHidalgo/TarefaContornos
+##### git init
+##### git clone https://github.com/JuanJoseHidalgo/TarefaContornos
 
 Con esto quedan conectados a nosa carpeta local e o repositorio en GitHub
 ![clonado do repositorio](./images/Clonado.PNG)
 
-### 3) A partir de ahí uns breves comandos en GitBash e traballo rematado!!
+#### 3) A partir de ahí uns breves comandos en GitBash e traballo rematado!!
 ![Comandos](./images/Comandos.PNG)
